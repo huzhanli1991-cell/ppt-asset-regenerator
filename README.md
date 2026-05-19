@@ -90,6 +90,9 @@ macOS / Linux:
   manifest.json
   process_notes.md
 ```
+<img width="564" height="763" alt="20260519132901" src="https://github.com/user-attachments/assets/4fd7bde3-b38b-47be-b58c-e3245db968bb" />
+<img width="1672" height="941" alt="p00_09_icon_marks_sheet" src="https://github.com/user-attachments/assets/bdea702b-ec56-4921-ba7d-159de1150cfe" />
+<img width="1672" height="941" alt="p00_02_brush_marks_labels_tapes" src="https://github.com/user-attachments/assets/fa9f5371-39f2-41a9-95d9-f540e478be04" />
 
 ## Notes
 
