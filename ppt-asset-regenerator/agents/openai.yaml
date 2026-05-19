@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT 素材重绘"
+  short_description: "从 PPT 截图识别元素并重绘高清可复用素材资产。"
+  default_prompt: "请使用 $ppt-asset-regenerator 分析这张 PPT 图片，识别背景、主视觉、文字区、装饰、图标、图形和图表，并用 imagegen 重绘高清无文字素材资产包。"
